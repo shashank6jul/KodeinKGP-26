@@ -7,6 +7,6 @@ A fundamental, from-scratch implementation of a blockchain-based voting ledger d
 ## 🛠️ Project Structure
 ```text
 ├── src/
-│   └── main.py              # Core blockchain logic, verification engine, and CLI menu
-├── screenshots/             # Visual proof of feature implementation and edge cases
-└── README.md                # Project documentation
+│   └── main.py
+├── screenshots/
+└── README.md
